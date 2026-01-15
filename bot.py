@@ -1,7 +1,7 @@
 import discord
 import json
 
-TOKEN = "MTQ2MTQ5MjY0ODM1NDUxNzEzNw.Gr60xr.Iy_FS3BG0u40hHpe64Lpm-r2deftOtTjzt21z4"
+TOKEN = "TOKEN"
 
 intents = discord.Intents.default()
 intents.messages = True
