@@ -1,1 +1,3 @@
-# discord--ptv-api
+discord-iptv-api/
+ ├─ package.json
+ └─ index.js
